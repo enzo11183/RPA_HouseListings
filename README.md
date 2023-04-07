@@ -14,3 +14,6 @@ After initial creation of listing.xlsx, if the given input does not exists, thes
 ![image](https://user-images.githubusercontent.com/46426033/230650959-e90bcc45-357a-446c-b47b-20fe15460e0f.png)
 ![image](https://user-images.githubusercontent.com/46426033/230651182-cafeb6ba-9076-4929-9872-b8f03711e268.png)
 ![image](https://user-images.githubusercontent.com/46426033/230651251-245aaec1-88fd-48b3-bf5d-7c0a53353e32.png)
+
+Required programs to run this bot:
+-Uipath, Excel and Firefox.
