@@ -1,5 +1,6 @@
 # RPA_HouseListings
-Extracting Property Listings from zillow.com
+Extracting Property Listings from zillow.com.
+
 This bot scraps real estate listings in a city (given by user) from zillow.com; in these specifications:
 -for sale
 -home type: house
