@@ -17,3 +17,5 @@ After initial creation of listing.xlsx, if the given input does not exists, thes
 
 Required programs to run this bot:
 -Uipath, Excel and Firefox.
+
+For further instructions in Turkish, check PropertyListing.pdf.
